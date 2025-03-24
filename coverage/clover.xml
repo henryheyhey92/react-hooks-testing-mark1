@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1742804153568" clover="3.2.0">
+  <project timestamp="1742804153568" name="All files">
+    <metrics statements="5" coveredstatements="5" conditionals="1" coveredconditionals="1" methods="4" coveredmethods="4" elements="10" coveredelements="10" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+    <file name="useCounter.ts" path="/Users/henrylai/Documents/Codebase_FE/react-test-example/react-hooks-testing-mark1/src/hooks/useCounter.ts">
+      <metrics statements="5" coveredstatements="5" conditionals="1" coveredconditionals="1" methods="4" coveredmethods="4"/>
+      <line num="4" count="11" type="stmt"/>
+      <line num="6" count="11" type="stmt"/>
+      <line num="7" count="11" type="stmt"/>
+      <line num="8" count="11" type="stmt"/>
+      <line num="10" count="11" type="stmt"/>
+    </file>
+  </project>
+</coverage>
